@@ -9,9 +9,9 @@ normalizing.
 
 ## Install
 
-* [npm](http://npmjs.org/): `npm install --save normalize.less`
+* [npm](http://npmjs.org/): `npm install --save normalize.css.less`
 * [Component(1)](https://github.com/component/component/): `component install madzhup/normalize.less`
-* [Bower](http://bower.io/): `bower install --save normalize.less`
+* [Bower](http://bower.io/): `bower install --save normalize.css.less`
 * [Download](http://madzhup.github.io/normalize.less/latest/normalize.less).
 
 No other styles should come before Normalize.less.
