@@ -1,25 +1,22 @@
-# normalize.css v3
+# normalize.less v3
 
-Normalize.css is a customisable CSS file that makes browsers render all
+Normalize.less is a customisable LESS file that makes browsers render all
 elements more consistently and in line with modern standards.
 
 The project relies on researching the differences between default browser
 styles in order to precisely target only the styles that need or benefit from
 normalizing.
 
-[View the test file](http://necolas.github.io/normalize.css/latest/test.html)
-
 ## Install
 
-* [npm](http://npmjs.org/): `npm install --save normalize.css`
-* [Component(1)](https://github.com/component/component/): `component install necolas/normalize.css`
-* [Bower](http://bower.io/): `bower install --save normalize.css`
-* [cdnjs](https://cdnjs.com/libraries/normalize)
-* [Download](http://necolas.github.io/normalize.css/latest/normalize.css).
+* [npm](http://npmjs.org/): `npm install --save normalize.less`
+* [Component(1)](https://github.com/component/component/): `component install madzhup/normalize.less`
+* [Bower](http://bower.io/): `bower install --save normalize.less`
+* [Download](http://madzhup.github.io/normalize.less/latest/normalize.less).
 
-No other styles should come before Normalize.css.
+No other styles should come before Normalize.less.
 
-It is recommended that you include the `normalize.css` file as untouched
+It is recommended that you include the `normalize.less` file as untouched
 library code.
 
 ## What does it do?
@@ -39,13 +36,9 @@ library code.
 * Apple Safari 6+
 * Internet Explorer 8+
 
-[Normalize.css v1 provides legacy browser
-support](https://github.com/necolas/normalize.css/tree/v1) (IE 6+, Safari 4+),
-but is no longer actively developed.
-
 ## Extended details
 
-Additional detail and explanation of the esoteric parts of normalize.css.
+Additional detail and explanation of the esoteric parts of normalize.less.
 
 #### `pre, code, kbd, samp`
 

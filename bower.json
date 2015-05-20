@@ -1,8 +1,8 @@
 {
-  "name": "normalize-css",
+  "name": "normalize.less",
   "version": "3.0.3",
-  "main": "normalize.css",
-  "author": "Nicolas Gallagher",
+  "main": "normalize.less",
+  "author": "madzhup",
   "ignore": [
     "CHANGELOG.md",
     "CONTRIBUTING.md",

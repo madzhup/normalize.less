@@ -1,8 +1,8 @@
 {
-  "name": "normalize.css",
-  "repo": "necolas/normalize.css",
+  "name": "normalize.less",
+  "repo": "madzhup/normalize.less",
   "version": "3.0.3",
-  "styles": ["normalize.css"],
-  "author": "Nicolas Gallagher",
+  "styles": ["normalize.less"],
+  "author": "madzhup",
   "license": "MIT"
 }
