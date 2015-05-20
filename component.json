@@ -1,5 +1,5 @@
 {
-  "name": "normalize.less",
+  "name": "normalize.css.less",
   "repo": "madzhup/normalize.less",
   "version": "3.0.3",
   "styles": ["normalize.less"],

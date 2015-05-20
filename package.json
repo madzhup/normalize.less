@@ -1,5 +1,5 @@
 {
-  "name": "normalize.less",
+  "name": "normalize.css.less",
   "version": "3.0.3",
   "description": "Normalize.less as a node packaged module",
   "style": "normalize.less",
